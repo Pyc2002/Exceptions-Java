@@ -14,7 +14,7 @@ import java.util.Scanner;
 Важно: При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
     */
 
-public class Main {
+public class HomeWork1 {
     static Scanner scanner = new Scanner(System.in);
     static Random random = new Random();
 
